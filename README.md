@@ -1,7 +1,6 @@
-[Hux Blog](https://huangxuan.me)
+[Jyh Blog]
 ================================
 
-> I never expected this to become popular.
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
